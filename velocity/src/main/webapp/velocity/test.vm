@@ -1,0 +1,14 @@
+#set($greet = "hello")
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>$!{greet} $!{fullName}</p>
+    <p>my another name is $!{secondName}</p>
+</body>
+
+</html>

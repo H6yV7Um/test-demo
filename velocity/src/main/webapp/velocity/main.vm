@@ -1,0 +1,9 @@
+#set($layout = "/velocity/layout/layout.vm")
+#set($CSS = ["scripts/css/index.css"])
+#set($JS = ["scripts/js/jquery-1.11.3.js"])
+#set($page_title = "主页")
+#set($sub = "/velocity/sub.vm")
+
+<div id="main-show">
+    this is main-show
+</div>

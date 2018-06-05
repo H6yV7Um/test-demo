@@ -1,0 +1,4 @@
+grant codebase "file:/D:/workspace/innerTest/security/target/classes"
+{
+   permission java.io.FilePermission "D:\\workspace\\projectX\\*", "write";
+};
